@@ -19,6 +19,10 @@ It provides real-time weather updates for any city around the world with details
 
 🛠️ Tech Stack
 
+# For live demo click :-
+netlify link :- https://65f21fbcb781d736cdddd9a2--gregarious-zabaione-280b7a.netlify.app/
+
+
 Frontend: [React / HTML / CSS / JavaScript]
 
 API: [OpenWeatherMap / Any other API you used]
